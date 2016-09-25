@@ -1,1 +1,1 @@
-        1 fichier(s) copi‚(s).
+This is my first git project
